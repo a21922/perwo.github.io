@@ -9,7 +9,7 @@
   <script>
     // 检测网页状态的函数
     function checkStatus() {
-      var url = 'https://你的网页地址.com'; // 请将此处的 URL 替换为你想要检测的网页地址
+      var url = 'https://z.666543.xyz'; // 请将此处的 URL 替换为你想要检测的网页地址
       var statusText = document.getElementById('status');
 
       // 发送请求检测网页
